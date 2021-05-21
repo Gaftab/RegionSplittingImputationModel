@@ -1,0 +1,10 @@
+metadata_version: 1
+name: 'RESI: A Region-Splitting Imputation Method for Different Types of Missing Data'
+description: a method to impute missing data
+authors:
+- name: Dunlu Peng
+  affiliations:
+  - name: University of Shanghai for Science and Technology
+- name: Mengping Zou
+  affiliations:
+  - name: University of Shanghai for Science and Technology
